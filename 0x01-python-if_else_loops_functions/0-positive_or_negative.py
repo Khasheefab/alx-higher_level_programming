@@ -15,3 +15,4 @@ elif number == 0:
 else:
 
     print("Number {:d} is negative".format(number)) 
+
